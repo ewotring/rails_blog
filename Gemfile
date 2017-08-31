@@ -33,6 +33,9 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'devise'
 
+# haml is a userful tool for simplifying the markup in html documents
+gem 'haml'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
